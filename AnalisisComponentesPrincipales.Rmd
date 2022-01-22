@@ -15,7 +15,7 @@ output:
  
 ## Introducción
 
-* Uno de los problemas centrales del análisis de datos es la \red{reducción de la dimensionalidad}.
+* Uno de los problemas centrales del **análisis de datos** es la \red{reducción de la dimensionalidad}.
 * Este concepto consiste en  describir con cierta precisión los valores de las $p$ variables por un pequeño subconjunto $r<p$ de ellas con una pérdida mínima de información.
 * Éste es el objetivo del \red{análisis de componentes principales}: dadas $n$
 observaciones de $p$ variables se analiza, \red{si es razonable}, representar esta información en un \red{espacio con menos variables}.
