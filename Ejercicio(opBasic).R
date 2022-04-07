@@ -1,0 +1,18 @@
+ opBasic=function(a,b){
+   print("Suma")
+   print(paste(sprintf("%i + %i = ",a,b),a+b))
+   print("Diferencia")
+   print(paste(sprintf("%i - %i = ",a,b),a-b))
+   print(paste(sprintf("%i - %i = ",b,a),b-a))
+   print("Producto")
+   print(paste(sprintf("%i * %i = ",a,b),a*b))
+   print("Cicinete de la división entera")
+   print(paste(sprintf("%i / %i = ",a,b),a%/%b))
+   print(paste("con resto",a%%b))
+   print("Cicinete de la división entera")
+   print(paste(sprintf("%i / %i = ",b,a),b%/%a))
+   print(paste("con resto",b%%a))
+   }
+opbasic(3,6)
+opBasic(3,7)
+opBasic(7,9)
